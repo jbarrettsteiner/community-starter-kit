@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- Welcome to the kitchen, where there can never be too many cooks!
+- We want you to join the fun
