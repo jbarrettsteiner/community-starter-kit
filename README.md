@@ -1,10 +1,15 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- We help people express themselves
+- The Baker's Dozen is open-source
+- Get started by following our newbie guide
+- Read our FAQs to get help
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- We are dropping a collection of tees
+- The Baker's Dozen is cooking up a digital recipe book
+- Give yourself a break from isolation and join our digital community
 
 ## Getting started
 
